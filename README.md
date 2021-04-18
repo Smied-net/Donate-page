@@ -1,6 +1,3 @@
-Description:
-Donate page.
-
 # Donate page
 
 #Donate #DonatePage #OpenSource
@@ -26,6 +23,8 @@ Donate page.
 | CSS | [Animate.css](https://github.com/animate-css/animate.css/) |
 
 # Use
+
+[Demo](https://smied-net.github.io/Donate-page/Donate.html)
 
 [Generate QR code](https://www.the-qrcode-generator.com/)
 
