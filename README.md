@@ -1,3 +1,6 @@
+Description:
+Donate page.
+
 # Donate page
 
 #Donate #DonatePage #OpenSource
@@ -20,11 +23,28 @@
 
 | Extras | Source |
 |:---------:| :---------:|
-| CSS | [Animate.css](https://github.com/animate-css/animate.css/) |
+| CSS | [FontAwesome](https://fontawesome.com/download) |
+| JS |  |
+| Favicon | [Twemoji](https://github.com/twitter/twemoji) |
 
-# Use
 
-[Demo](https://smied-net.github.io/Donate-page/Donate.html)
+# Demo
+
+[Demo](https://smied-net.github.io/Donate-page/Donate.html/)
+
+# Customization
+
+## Cryptocurrency Icons
+
+[Cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons/)
+
+## Donation system Icons
+
+[Simple-icons](https://github.com/simple-icons/simple-icons/)
+
+[Vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone/)
+
+## Other
 
 [Generate QR code](https://www.the-qrcode-generator.com/)
 
