@@ -24,13 +24,13 @@ Donate page.
 | Extras | Source |
 |:---------:| :---------:|
 | CSS | [FontAwesome](https://fontawesome.com/download) |
-| JS |  |
 | Favicon | [Twemoji](https://github.com/twitter/twemoji) |
+| JS |  |
 
 
 # Demo
 
-[Demo](https://smied-net.github.io/Donate-page/Donate.html/)
+[Demo](https://smied-net.github.io/Donate-page/Donate.html)
 
 # Customization
 
