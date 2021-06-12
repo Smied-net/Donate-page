@@ -1,11 +1,10 @@
-Description:
-Donate page.
-
 # Donate page
 
 #Donate #DonatePage #OpenSource
 
 [Donate page](https://github.com/Smied-net/Donate-page) - is an open source donate page.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Smied-net.Donate-page/)
 
 **Smied.net links:**
 
